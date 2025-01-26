@@ -1,7 +1,7 @@
 # Gabriel Bastos 👨‍🏫
 **`Professor e Analista de Dados`**
 
-Me chamo Gabriel Bastos, tenho 27 anos e sou natural do Rio de Janeiro. Apaixonado por números, em 2022 me formei Bacharel em matemática pela UFRJ. No início de 2023, após uma oportunidade de emprego, desbravei um novo mar, o mar das **Análises de dados**. Desde então, tenho focado meus esforços tanto para o lado educacional, quanto para o lado dos dados. 
+Me chamo Gabriel Bastos, tenho 27 anos e sou natural do Rio de Janeiro. Apaixonado por números, em 2022 me formei Bacharel em matemática pela UFRJ. No início de 2023, após uma oportunidade de emprego, desbravei um novo mundo, o mundo das **Análises de dados**. Desde então, tenho focado meus esforços tanto para o lado educacional, quanto para o lado dos dados. 
 
 ---
 
